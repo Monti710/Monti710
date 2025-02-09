@@ -35,9 +35,10 @@ You can see more on my [GitHub](https://github.com/Monti710).
 
 ---
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+### ⚙️ &nbsp;GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monti710&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monti710&layout=compact&theme=radical)
 
 ---
 
