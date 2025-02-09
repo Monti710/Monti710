@@ -28,9 +28,10 @@ Soy un desarrollador apasionado por la programación con experiencia en **JavaSc
 ---
 
 ### 📌 Proyectos destacados
-- 🔹 **[Proyecto 1](#)** - Descripción breve del proyecto.
-- 🔹 **[Proyecto 2](#)** - Descripción breve del proyecto.
-- 🔹 **[Proyecto 3](#)** - Descripción breve del proyecto.
+- 🔹 **[PythonIMageProcess]([#](https://github.com/Monti710/PythonImageProcess))** - In this proyect, I use python and opencv for the recongnition of
+- objects and faces
+- 🔹 **[StockMaster](#https://github.com/Monti710/StockMaster)** - In this project, I use Django and CSS. This project is about a storage system for a department store.
+- 🔹 **[Culturedge](#https://github.com/Monti710/Culturedge)** - In this proyect, I use php,mysql,css and js. This project is about a blogweb
 
 Puedes ver más en mi [GitHub](https://github.com/Monti710).
 
