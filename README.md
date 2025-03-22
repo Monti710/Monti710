@@ -45,4 +45,4 @@ You can see more on my [GitHub](https://github.com/Monti710).
 ### 📫 Contact Me
 - 📩 Email: [mayelomonti1@gmail.com](mailto:mayelomonti1@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/monti710/](https://www.linkedin.com/in/monti710)
-- 🌐 Portfolio: [tuweb.com](https://tuweb.com)
+- 🌐 Portfolio: [https://ismael-montiel-portfolio.netlify.app/](https://ismael-montiel-portfolio.netlify.app/)
