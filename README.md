@@ -28,7 +28,6 @@ I am a passionate developer with experience in **JavaScript, PHP, Python, Java, 
 ---
 
 ### 📌 Featured Projects
-- 🔹 **[PythonImageProcess]([#](https://github.com/Monti710/PythonImageProcess))** - In this project, I use Python and OpenCV for object and face recognition.
 - 🔹 **[StockMaster](#https://github.com/Monti710/StockMaster)** - In this project, I use Django and CSS. It is a storage system for a department store.
 - 🔹 **[Culturedge](#https://github.com/Monti710/Culturedge)** - In this project, I use PHP, MySQL, CSS, and JavaScript. It is a blog website.
 
